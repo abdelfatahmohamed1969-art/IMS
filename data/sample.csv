@@ -1,1 +1,2 @@
-Paging SR
+Start Time,Number of First Pagings in Calls (times),Number of Responses to First Pagings in Calls (times),Number of Responses to Repeated Pagings in Calls (times),Number of First Pagings in Short Message Service (times),Number of Responses to First Pagings in Short Message Service (times),Number of Responses to Repeated Pagings in Short Message Service (times),Number of First Pagings in PSI Service (times),Number of Responses to First Pagings in PSI Service (times),Number of Responses to Repeated Pagings in PSI Service (times)
+2025-11-17 14:00:00,28353,18006,1242,13869,9884,700,25955,2380,684
